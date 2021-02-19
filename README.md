@@ -1,2 +1,4 @@
 # JJO
- my first landing page on github
+ Hellow Everyone)
+ This is my first try on Github
+ Simply work with Bootstrap, and media query
