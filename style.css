@@ -96,8 +96,15 @@ span{
     font-size: 18px;
 }
 
-.border-ico{
-    border: 1px solid #707070;
-    border-radius: 50px;
-    padding: 14px;
+.contacts{
+    margin-top: 60px;
+}
+
+.position-absolute{
+    max-width: 533px;
+}
+
+.footer{
+    margin-top: 58px;
+    margin-bottom: 58px;
 }
