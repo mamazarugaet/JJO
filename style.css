@@ -102,9 +102,53 @@ span{
 
 .position-absolute{
     max-width: 533px;
+    margin-top: 57px;
+    margin-left: 67px;
 }
+
 
 .footer{
     margin-top: 58px;
     margin-bottom: 58px;
+}
+
+@media screen and (max-width: 1024px){
+    h1,h2{
+        font-size: 35px;
+    }
+
+    h5{
+        font-size: 20px;
+    }
+    p{
+        font-size: 16px;
+    }
+    span{
+        font-size: 14px;
+    }
+    .time{
+        font-size: 14px;
+    }
+    .position-absolute{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px){
+    h1,h2{
+        font-size: 25px;
+    }
+    p{
+        font-size: 12px;
+    }
+
+    .position-absolute{
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .footer{
+        margin-top: 100px;
+    }
 }
