@@ -12,7 +12,7 @@ h1{
 
 h2{
     font-size: 48px;
-    margin-bottom: 38px;
+    
 }
 
 p{
@@ -71,6 +71,7 @@ a{
 }
 
 .vacancy-cards{
+    margin-top: 36px;
     margin-bottom: 36px;
 }
 
@@ -80,6 +81,10 @@ a{
 
 .companies{
     margin-top: 70px;
+}
+
+.companies-logos{
+    margin-top: 36px;
 }
 
 .card{
@@ -105,6 +110,7 @@ span{
     margin-top: 57px;
     margin-left: 67px;
 }
+
 
 
 .footer{
@@ -141,9 +147,15 @@ span{
     p{
         font-size: 12px;
     }
+    span{
+        font-size: 12px;
+    }
 
     .position-absolute{
         max-width: 400px;
+    }
+    li{
+        padding: 0%;
     }
 }
 
